@@ -49,12 +49,10 @@ NZWÌ-TAM est une marque sportive africaine à rayonnement international, spéci
 - Sorties de stock (commandes expédiées)
 - Historique des mouvements de stock
 - Gestion des fournisseurs
-
 #### b-	Gestion commerciale BtoB et BtoC (Commercial)
 - Gestion des clients revendeurs (fiche entreprise, conditions tarifaires)
 - Gestion des commandes BtoB et BtoC (volume, délais, conditions de paiement)
 - Suivi des paiements
-
 #### c-	Gestion du sponsoring (Responsable sponsoring)
 - Fiche joueur (identité, club, championnat, statistiques de performance)
 - Fiche club (identité, championnat, palmarès, effectif)
