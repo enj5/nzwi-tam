@@ -2,7 +2,6 @@
 # NZWÌ-TAM, The Panther of the Game 
 
 ## 1-	Présentation du projet  
-
 ### 1-1-	Contexte 
 Projet personnel réalisé dans le cadre d'une alternance en Data Analysis, visant à monter en compétence sur la modélisation et la manipulation de bases de données relationnelles complexes, à travers la conception d'un projet full-stack complet.
 ### 1-2-	Présentation de la marque
