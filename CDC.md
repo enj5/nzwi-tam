@@ -112,8 +112,8 @@ ________________________________________
 - Bibliothèque de requêtes SQL avancées documentées
 ### 4-2-	Application web
 - Site e-commerce public (boutique, fiches produits, espace client)
+- Site avec interface, réservé aux admin de l'entreprise pour modifier les BDD
 - BDD complète (stock, sponsoring, commercial, reporting)
-- Code source versionné sur GitHub
 ### 4-3-	Reporting
 - Dashboards Power BI connectés à PostgreSQL
 - Rapport de ventes BtoC / BtoB
@@ -123,16 +123,13 @@ ________________________________________
 - Cahier des charges (ce document)
 - Dictionnaire de données (description de chaque table et colonne)
 - Guide d'installation et de configuration de l'environnement
-- BBDD complète prenant en compte toute les données liées aux produits, aux stocks ainsi qu'aux joueurs et équipes sponsorisés
-- Clients particuliers (BtoC) — achat de produits en ligne
-  Un client peut rechercher un produit et passer une commande. Le site s'appuiera sur la BDD des produits et des stocks.  
-- Clients revendeur (BtoC) - Passe des commandes en volume
-       Le client revendeur a un espace dédié pour les commandes en gros
+- BDD complète prenant en compte toute les données liées aux produits, aux stocks ainsi qu'aux joueurs et équipes sponsorisés
 
 |Profil	|Accès|	Description|
 |---|---|---|
 |Client particulier|	Public|	Achète des produits en ligne (BtoC)|
 |Client revendeur|	Public|	Passe des commandes en volume (BtoB)|
+|Admin entreprise| Privé| Mise à jour des BDD via interface graphique|
 
 Architecture de navigation  
 /..................................... Accueil  
@@ -143,11 +140,15 @@ Architecture de navigation
 + /BtoC .......................... Espace client (login)  
 + /BtoB .......................... Espace revendeur (login)
 
+/....................................... Espace Admin  
+/compte/................................ (login admin)
+
 Comportement à implémenter :
 Navigation boutique et fiches produits → libre, sans compte
 Ajout au panier ou commande → redirection automatique vers /auth/connexion
 Si pas de compte → lien vers /auth/inscription – **et MAJ de la BDD**
 Une fois connecté → retour automatique au panier
+Connexion compte admin → Accès espace de modification de BDD
 
 ## 7-	Planification
 Je me fixe 3 mois pour le réaliser. Pour y arriver, je dois être discipliné, ne pas viser absolument la perfection à chaque étape. L’objectif ici est d’avoir un projet fonctionnel et propre, pas un produit commercial fini.
