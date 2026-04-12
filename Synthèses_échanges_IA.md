@@ -13,11 +13,11 @@
     - CAN (Coupe d'Afrique des Nations)
     - Clubs africains en compétitions CAF  
 
-Les objectifs en termes de compétences développées restent les même. A ça s'ajoute juste le webscrapping dont j'aurais sans doute besoin pour la recherhce des données.  
+Les objectifs en termes de compétences développées restent les mêmes. A ça s'ajoute juste le webscrapping dont j'aurais sans doute besoin pour la recherhce des données.  
 
 
 Alors, la suite...  
---> Trouver un nom pour le site (TamNkou, tame, tamScore, Tam Ballon...)
---> Etablir la fiche de projet, puis le CDC
---> Effectuer la planification du projet
---> **Me lancer!!!!**
+--> Trouver un nom pour le site (TamNkou, tame, tamScore, Tam Ballon...)  
+--> Etablir la fiche de projet, puis le CDC  
+--> Effectuer la planification du projet  
+--> **Me lancer!!!!**  
