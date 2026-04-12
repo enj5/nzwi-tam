@@ -1,17 +1,17 @@
-# PROJET « NZWÌ-TAM » 
+# PROJET « TamScore » 
 
-## Titre : Projet « NZWÌ-TAM », The Panther of the Game
 
 ## Objectifs : 
-•	Monter en compétence sur le SQL avancé et la modélisation de BDD relationnelle complexe
-•	Acquérir une maîtrise pratique de PostgreSQL / pgAdmin dans un contexte proche du professionnel
-•	Construire un projet full-stack (site web) complet (BDD + back-end + front-end + reporting)
+•	Monter en compétence sur le SQL avancé et la modélisation de BDD relationnelle complexe  
+•	Acquérir une maîtrise pratique de PostgreSQL / pgAdmin dans un contexte proche du professionnel  
+•	Construire un projet full-stack (site web) complet (BDD + back-end + front-end + reporting)  
 
 ## Contexte : 
-Projet personnel réalisé en parallèle de l'alternance, sur une durée initiale, prévue de 3 mois. 
+Projet personnel réalisé en parallèle de l'alternance, sur une durée initiale, prévue de 3 mois.   
 
 ## Description : 
-Site e-commerce d'une marque sportive camerounaise internationale spécialisée dans les équipements de football. L'entreprise gère les ventes BtoC et BtoB, la logistique de stock, et a un volet sponsoring de joueurs et clubs. Les données footballistiques réelles alimentent un module d'aide à la décision pour la négociation des contrats de sponsoring. Un dashboard Power BI complète le tout pour le reporting.
+Site web de statistiques dédiée au football africain, couvrant les équipes nationales, la CAN et les compétitions CAF. Le site centralise et visualise les données de matchs (résultats, en direct, programme), les statistiques de joueurs et d'équipes, ainsi que les données par saison.  
+La philosophie du site sera inspirée de site telsque "SofaScore", "BeSoccer", etc...  
 
 
 ## Stack technique : 
