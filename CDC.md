@@ -1,16 +1,18 @@
 # Cahier des charges
-# NZWÌ-TAM, The Panther of the Game 
+# TamScore 
 
 ## 1-	Présentation du projet  
 ### 1-1-	Contexte 
 Projet personnel réalisé dans le cadre d'une alternance en Data Analysis, visant à monter en compétence sur la modélisation et la manipulation de bases de données relationnelles complexes, à travers la conception d'un projet full-stack complet.
 ### 1-2-	Présentation de la marque
-NZWÌ-TAM est une marque sportive africaine à rayonnement international, spécialisée dans la conception et la commercialisation d'équipements de football. Son nom, issu de la langue Mə̀dʉ̂mbὰ (Medumba) de l'Ouest Cameroun, il provient de “Nzwìmαntɔ̀” = “Panthère” et de “Tamnkò” = “Football” qu’on peut traduire par "La Panthère du Football". La marque sponsorise des joueurs et des clubs de football, et commercialise ses produits auprès de particuliers (BtoC) et de revendeurs (BtoB).
+TamScore est un site web de statistiques dédiée au football africain, couvrant les équipes nationales, la CAN et les compétitions CAF. Le site centralise et visualise les données de matchs (résultats, en direct, programme), les statistiques de joueurs et d'équipes, ainsi que les données par saison. Son nom est composé de deux termes : "Tam" issu de la langue Mə̀dʉ̂mbὰ (Medumba) de l'Ouest Cameroun, qui provient de “Tamkù” = “Football” et de “Score” en anglais. De manière globale, le site devra proposée du contenu telque l'on peut retrouver sur les sites classiques telsque SofaScore et BeSoccer.  
 ### 1-3-	Objectifs du projet
 - Concevoir et modéliser une base de données relationnelle complexe sous PostgreSQL
 - Développer un site web full-stack connecté à cette base de données
 - Intégrer un module de reporting via Power BI Desktop
 - Produire un projet de portfolio démontrant des compétences en data et développement web
+
+**(La suite à modifier....)**
 
 ## 2-	Périmètre fonctionnel : 
 ### 2-1-	Module 1 — Boutique
